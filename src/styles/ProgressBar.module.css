@@ -1,4 +1,5 @@
-* progress bar component */ .progressBar {
+/* progress bar component */
+.progressBar {
   width: calc(100vw - 100px);
   height: 65px;
   position: fixed;
